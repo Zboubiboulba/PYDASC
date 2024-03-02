@@ -1,0 +1,2 @@
+print("Python est vraiment sympa!")
+load_boston()
